@@ -3,8 +3,6 @@ browser-based auto face cropping app
 ## Made by Shuvo_Vai with 💝💘
 
 
-To vist this app : [https://quizzical-curie-b5514f.netlify.app](https://quizzical-curie-b5514f.netlify.app).
-
-![Site Image](./model.png)
+![Site Image](https://github.com/devshahoriar/ai_face_crop/blob/main/model.jpg?raw=true)
 
 ## Have a nice day!
